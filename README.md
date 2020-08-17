@@ -2,7 +2,7 @@
 
 Budgeted Education Revenue Expenditure
 
-This [flexdashboard](https://r-leyshon.github.io/Wales-School-Analysis/) analyses delegated schools budgets within Wales (Financial Year 2018/19).
+This [flexdashboard](https://rpubs.com/M_Merciless/wales_sch_funding1819) analyses delegated schools budgets within Wales (Financial Year 2018/19).
 
 On the landing page, interact with the map to explore schools within Wales. Click the points to receive an informative tooltip.
 
